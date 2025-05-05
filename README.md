@@ -1,16 +1,20 @@
-## Hi there 👋
+## Olá 👋 Eu sou o João Pedro
 
-<!--
-**joaopedrodaAna/joaopedrodaAna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou Estudante , curso Desenvolvimento de Sistema, estou no Segundo ano do Ensino Medio 
 
-Here are some ideas to get you started:
+- 💻 Estudando Python 
+- 🔐 Interesso-me pelas profissões "engenharia de software" e "UI Designer"
+- 👨‍🏫 Atualmente, dedico parte do meu tempo ao estudo de tecnologia, Estudando conteudos como: Back end, Front end, Banco de dados, Matematica Discreta etc
+- 📚 Uso este repositório para compartilhar materiais, projetos e experiências com a comunidade.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Contato:  Email: joaopedro.smiranda2009@gmail.com
+
+
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaopedrodaAna&show_icons=true&theme=tokyonight&hide_title=false" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedrodaAna&layout=compact&theme=tokyonight" />
+</p>
+
