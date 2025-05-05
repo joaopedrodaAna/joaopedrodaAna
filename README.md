@@ -14,7 +14,11 @@ Sou Estudante , curso Desenvolvimento de Sistema, estou no Segundo ano do Ensino
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaopedrodaAna&show_icons=true&theme=tokyonight&hide_title=false" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedrodaAna&layout=compact&theme=tokyonight" />
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=joaopedrodaAna&show_icons=true&theme=tokyonight&hide_title=false" />
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedrodaAna&layout=compact&theme=tokyonight" />
 </p>
 
+## 🚀 Linguagens e Tecnologias
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
